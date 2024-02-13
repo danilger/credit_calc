@@ -1,4 +1,5 @@
 class Calculator {
+  //forked
   #interestRate;
   #maxDurationMonths;
   #MinInitialPaymentPersent;
